@@ -21,6 +21,4 @@
 ⚫[ STRING EM PYTHON: EXTRAINDO INFORMAÇÕES DE UMA URL](https://cursos.alura.com.br/certificate/b8866dc3-1856-4fd6-8370-1474de11b77e?lang=pt_BR)<br/>
 ⚫[ PYTHON: AVANÇANDO NA ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/certificate/2bcad30c-c7ff-429c-a7f2-0aaf3803a10d?lang=pt_BR)<br/>
 ⚫[ PYTHON: AVANÇANDO NA LINGUAGEM](https://cursos.alura.com.br/certificate/f837a530-babb-4035-a8ee-f6fd57c577f0?lang=pt_BR)<br/>
-⚫[ JAVASCRIPT NA WEB: ARMAZENANDO DADOS NO NAVEGADOR](https://cursos.alura.com.br/certificate/a08820b8-87de-437d-a74f-d916766d6d43?lang=pt_BR)<br/>
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+⚫[ JAVASCRIPT NA WEB: ARMAZENANDO DADOS NO NAVEGADOR](https://cursos.alura.com.br/certificate/a08820b8-87de-437d-a74f-d916766d6d43?lang=pt_BR)<br/>    
