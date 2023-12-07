@@ -22,5 +22,3 @@
 ⚫[ PYTHON: AVANÇANDO NA ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/certificate/2bcad30c-c7ff-429c-a7f2-0aaf3803a10d?lang=pt_BR)<br/>
 ⚫[ PYTHON: AVANÇANDO NA LINGUAGEM](https://cursos.alura.com.br/certificate/f837a530-babb-4035-a8ee-f6fd57c577f0?lang=pt_BR)<br/>
 ⚫[ JAVASCRIPT NA WEB: ARMAZENANDO DADOS NO NAVEGADOR](https://cursos.alura.com.br/certificate/a08820b8-87de-437d-a74f-d916766d6d43?lang=pt_BR)<br/>
-
-![Snake animation](https://github.com/TobyNull/TobyNull/blob/output/github-contribution-grid-snake.svg)
