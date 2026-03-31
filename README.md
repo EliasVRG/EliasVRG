@@ -1,39 +1,130 @@
-<div align="center" >
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D46B9&height=150&section=header"/>
+<div align="center">
+
+# ELIASVRG
+
+bash
+> initializing system...
+> loading identity...
+> SYSTEM ENGINEER
+
+> ready
+
+
 </div>
+
+---
+
+## 🧠 CORE
+
+bash
+[SYS] I BUILD SYSTEMS — NOT INTERFACES
+[SYS] I DON'T FOLLOW TRENDS
+[SYS] I CREATE STRUCTURE
+
+[WARN] Frontend is not my focus
+[OK]   Still better than most
+
+
+---
+
+## ⚙️ STACK
+
+bash
+> stack --list
+
+PHP
+REACT
+NODE
+NEST.JS
+TYPESCRIPT
+JAVASCRIPT
+ORACLE
+POSTGRESQL
+PYTHON
+
+
+---
+
+## 🧩 REAL WORK
+
+bash
+> describe --real
+
+- scalable backends
+- system architecture
+- automation
+- performance optimization
+
+
+---
+
+## 🧪 COMMAND LINE
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasVRG&show_icons=true&theme=github_dark_dimmed"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasVRG&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+bash
+> run available commands
+
+open portfolio
+view github
+contact
+
+
 </div>
 
-<div align="center" style="font-size: 2rem">
+---
 
-## My work tools
-</div>
-
-<div align="center" style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge"/>
-    <img align="center" alt="QlikSense" src="https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=fff&style=for-the-badge"/>
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div><br/>
-
-<div align="center" style="font-size: 1.5rem">
-
-# My social networks
-</div>
-
+## 🚀 EXECUTE
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-victor-00243521b)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_victor__/)
+<a href="https://elias-vrg-portifolio.vercel.app/" target="_blank">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D46B9&height=120&section=footer"/>
+bash
+> open portfolio
+
+
+</a>
+
+<a href="https://github.com/EliasVRG" target="_blank">
+
+bash
+> view github
+
+
+</a>
+
+<a href="mailto:eliasvictor2452@gmail.com">
+
+bash
+> contact
+
+
+</a>
+
 </div>
+
+---
+
+## 📊 SYSTEM METRICS
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasVRG&theme=dark&hide_border=true"/>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliasVRG&theme=github_dark"/>
+
+</div>
+
+---
+
+## ⚠️ FINAL
+
+bash
+> execute
+
+This is not a README.
+This is an interface.
+
+You don’t navigate it.
+You execute it.
