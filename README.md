@@ -2,13 +2,13 @@
 
 # ELIASVRG
 
-bash
+```bash
 > initializing system...
 > loading identity...
-> SYSTEM ENGINEER
+> BACKEND & FULLSTACK DEVELOPER
 
 > ready
-
+```
 
 </div>
 
@@ -16,45 +16,45 @@ bash
 
 ## 🧠 CORE
 
-bash
-[SYS] I BUILD SYSTEMS — NOT INTERFACES
-[SYS] I DON'T FOLLOW TRENDS
+```bash
+[SYS] I BUILD SYSTEMS THAT WORK
+[SYS] PRODUCTION-GRADE CODE. ZERO EXCUSES.
 [SYS] I CREATE STRUCTURE
 
-[WARN] Frontend is not my focus
-[OK]   Still better than most
-
+[OK]  Oracle → PostgreSQL → React → Deploy.
+```
 
 ---
 
 ## ⚙️ STACK
 
-bash
+```bash
 > stack --list
 
 PHP
 REACT
-NODE
+NODE.JS
 NEST.JS
 TYPESCRIPT
 JAVASCRIPT
 ORACLE
 POSTGRESQL
 PYTHON
-
+```
 
 ---
 
-## 🧩 REAL WORK
+## 🧩 SYSTEM STATUS
 
-bash
-> describe --real
+```bash
+> describe --status
 
-- scalable backends
-- system architecture
-- automation
-- performance optimization
-
+- STATUS:   AVAILABLE FOR WORK
+- EXP:      2+ YEARS
+- DEPLOYS:  15+ PROJECTS SHIPPED
+- LOCATION: MARINGÁ-PR, BRASIL
+- FOCUS:    scalable_backends, system_architecture, automation
+```
 
 ---
 
@@ -62,13 +62,13 @@ bash
 
 <div align="center">
 
-bash
+```bash
 > run available commands
 
 open portfolio
 view github
 contact
-
+```
 
 </div>
 
@@ -80,25 +80,25 @@ contact
 
 <a href="https://elias-vrg-portifolio.vercel.app/" target="_blank">
 
-bash
+```bash
 > open portfolio
-
+```
 
 </a>
 
 <a href="https://github.com/EliasVRG" target="_blank">
 
-bash
+```bash
 > view github
-
+```
 
 </a>
 
-<a href="mailto:eliasvictor2452@gmail.com">
+<a href="mailto:elias.garcia@vertti.com.br">
 
-bash
+```bash
 > contact
-
+```
 
 </a>
 
@@ -110,9 +110,9 @@ bash
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasVRG&theme=dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasVRG&theme=dark&hide_border=true&background=0D1117&ring=FFD60A&fire=FFD60A&currStreakNum=FFFFFF"/>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliasVRG&theme=github_dark"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliasVRG&theme=github_dark&bg_color=0D1117&title_color=FFD60A&icon_color=FFD60A"/>
 
 </div>
 
@@ -120,7 +120,7 @@ bash
 
 ## ⚠️ FINAL
 
-bash
+```bash
 > execute
 
 This is not a README.
@@ -128,3 +128,4 @@ This is an interface.
 
 You don’t navigate it.
 You execute it.
+```
