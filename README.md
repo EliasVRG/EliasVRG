@@ -1,121 +1,39 @@
-<div align="left">
+### Olá, sou o Elias Victor 👋
 
-# ELIASVRG
+Backend & Fullstack Developer focado em sistemas escaláveis: filas assíncronas, APIs, observabilidade e automação.
 
-```bash
-> boot sequence initialized...
+📍 Maringá-PR, Brasil · 2+ anos de experiência · Disponível para novas oportunidades
 
-[SYS] loading identity...
-[SYS] establishing environment...
+**Stack principal:**
 
-[ROLE] Backend & Fullstack Developer
-[MODE] Production
-
-> system ready_
-````
-
-</div>
-
----
-
-## 🧠 CORE
-
-```bash
-[SYS] I BUILD SYSTEMS THAT WORK
-[SYS] PRODUCTION-GRADE CODE. ZERO EXCUSES.
-[SYS] I CREATE STRUCTURE
-
-[OK] Oracle → PostgreSQL → React → Deploy
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## ⚙️ STACK
+### 🔹 Projetos em destaque
 
-```bash
-> stack --list
+**[lead-hunter](https://github.com/EliasVRG/lead-hunter)**
+Pipeline de descoberta de vagas freelance com IA: enfileira jobs (BullMQ/Redis), avalia compatibilidade com currículo via IA e gera rascunhos de proposta automaticamente.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-[LANG]
-PHP
-TYPESCRIPT
-JAVASCRIPT
-PYTHON
+**[web-perf-monitor](https://github.com/EliasVRG/web-perf-monitor)**
+Plataforma de observabilidade que monitora Core Web Vitals e postura de segurança de múltiplos sites, correlacionando anomalias de performance com falhas de segurança em tempo real.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[FRAMEWORKS]
-REACT
-NODE.JS
-NEST.JS
-
-[DATABASE]
-ORACLE
-POSTGRESQL
-```
+**[img-sanitizer](https://github.com/EliasVRG/img-sanitizer)** ⭐ 5
+Biblioteca npm para sanitização e normalização de imagens vindas de fontes não confiáveis — detecta corrupção, repara arquivos e bloqueia payloads maliciosos (ex: ataques polyglot).
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
-## 🧩 SYSTEM STATUS
+### 📫 Contato
 
-```bash
-> describe --status
-
-[STATUS]   AVAILABLE FOR WORK
-[EXP]      2+ YEARS
-[DEPLOYS]  15+ PROJECTS SHIPPED
-[LOCATION] MARINGÁ-PR, BRASIL
-[FOCUS]    scalable_backends, system_architecture, automation
-```
-
----
-
-## 🧪 COMMAND LINE
-
-```bash
-> help
-
-open portfolio   - access my projects
-view github      - browse repositories
-contact          - initiate connection
-```
-
----
-
-## 🚀 EXECUTE
-
-```bash
-> select command
-```
-
-<p align="center">
-
-<a href="https://elias-vrg-portifolio.vercel.app/" target="_blank">open portfolio</a> • <a href="https://github.com/EliasVRG" target="_blank">view github</a> • <a href="mailto:elias.garcia@vertti.com.br">contact</a>
-
-</p>
-
----
-
-## 📊 SYSTEM METRICS
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasVRG&theme=dark&hide_border=true&background=0D1117&ring=FFD60A&fire=FFD60A&currStreakNum=FFFFFF"/>
-    </td>
-    <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EliasVRG&theme=github_dark&bg_color=0D1117&title_color=FFD60A&icon_color=FFD60A"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚠️ FINAL
-
-```bash
-> execute
-
-This is not a README.
-This is an interface.
-
-You don’t navigate it.
-You execute it.
-```
+[LinkedIn](https://www.linkedin.com/in/elias-victor-00243521b/) · [Portfólio](https://elias-vrg-portifolio.vercel.app)
