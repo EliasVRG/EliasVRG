@@ -2,7 +2,7 @@
 
 Backend & Fullstack Developer focado em sistemas escaláveis: filas assíncronas, APIs, observabilidade e automação.
 
-📍 Maringá-PR, Brasil · 2+ anos de experiência · Disponível para novas oportunidades
+📍 Maringá-PR, Brasil · 3+ anos de experiência · Disponível para novas oportunidades
 
 **Stack principal:**
 
