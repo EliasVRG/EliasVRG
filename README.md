@@ -1,6 +1,7 @@
 ### Olá, sou o Elias Victor 👋
 
-Backend & Fullstack Developer focado em sistemas escaláveis: filas assíncronas, APIs, observabilidade e automação.
+Backend & Fullstack Developer focado em sistemas escaláveis: integrações
+corporativas, observabilidade, filas assíncronas e arquitetura de software.
 
 📍 Maringá-PR, Brasil · 3+ anos de experiência · Disponível para novas oportunidades
 
@@ -20,19 +21,41 @@ Backend & Fullstack Developer focado em sistemas escaláveis: filas assíncronas
 
 ### 🔹 Projetos em destaque
 
+**[my-library](https://github.com/EliasVRG/my-library)**
+PWA offline-first de biblioteca pessoal de PDFs com sincronização
+multi-dispositivo, resolução de conflitos campo a campo e upload multipart
+com retomada. Backend em Cloudflare Workers (Hono) com D1 e R2.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
 **[lead-hunter](https://github.com/EliasVRG/lead-hunter)**
-Pipeline de descoberta de vagas freelance com IA: enfileira jobs (BullMQ/Redis), avalia compatibilidade com currículo via IA e gera rascunhos de proposta automaticamente.
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Pipeline de descoberta de vagas freelance com IA: enfileira jobs
+(BullMQ/Redis), avalia compatibilidade com currículo via IA e gera
+rascunhos de proposta automaticamente.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **[web-perf-monitor](https://github.com/EliasVRG/web-perf-monitor)**
-Plataforma de observabilidade que monitora Core Web Vitals e postura de segurança de múltiplos sites, correlacionando anomalias de performance com falhas de segurança em tempo real.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Plataforma de observabilidade que monitora Core Web Vitals e postura de
+segurança de múltiplos sites, correlacionando anomalias de performance
+com falhas de segurança em tempo real.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **[img-sanitizer](https://github.com/EliasVRG/img-sanitizer)** ⭐ 5
-Biblioteca npm para sanitização e normalização de imagens vindas de fontes não confiáveis — detecta corrupção, repara arquivos e bloqueia payloads maliciosos (ex: ataques polyglot).
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-
----
+Biblioteca npm para sanitização e normalização de imagens vindas de fontes
+não confiáveis — detecta corrupção, repara arquivos e bloqueia payloads
+maliciosos (ex: ataques polyglot).
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ### 📫 Contato
 
