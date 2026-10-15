@@ -31,9 +31,11 @@ com retomada. Backend em Cloudflare Workers (Hono) com D1 e R2.
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 **[lead-hunter](https://github.com/EliasVRG/lead-hunter)**
-Pipeline de descoberta de vagas freelance com IA: enfileira jobs
-(BullMQ/Redis), avalia compatibilidade com currículo via IA e gera
-rascunhos de proposta automaticamente.
+Pipeline de descoberta de vagas freelance com triagem por IA e geração de
+proposta. Monorepo com 3 workers BullMQ em estágios independentes, scraping
+com parsers testados contra fixtures reais, filtro determinístico antes da
+IA e score recalculado pelo sistema. Stack: Node.js, TypeScript, Fastify,
+BullMQ, Redis, PostgreSQL, OpenRouter, Docker.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
